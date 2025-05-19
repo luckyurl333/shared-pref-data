@@ -1,9 +1,20 @@
 {
-  "com.appcloner.x.classes.cloneTimestamp": 1747386860016,
-  "com.facebook.appevents.SessionInfo.sessionStartTime": 1747637601284,
-  "com.facebook.appevents.SessionInfo.sessionEndTime": 1747637606836,
-  "bg_startup_tracing": false,
-  "com.facebook.appevents.SessionInfo.interruptionCount": 0,
-  "com.appcloner.x.classes.originalInstallVersionCode": 50005,
-  "com.facebook.appevents.SessionInfo.sessionId": "4b352bb8-682b-48bc-8912-7d1fb9e5116a"
+  "com.vlv.aravali": {
+    "mlt_is_already_shown": false,
+    "fb_link_processed": true,
+    "fcm_registered_useriRn8F0EqrrQIUbAjbi4t7wX1iuq150005": true,
+    "guilt_dialog_shown_count": 1,
+    "payment_pending_message": "",
+    "occupation": "[\"Student\",\"Self-Employed\",\"Govt. Employee\",\"Salaried\"]",
+    "mlt_is_one_time_pause_shown": false,
+    "daily_listening_time": true,
+    "no_of_times_app_opened": 2,
+    "is_main_activity_created": true,
+    "guilt_dialog_version": 4,
+    "more_like_this_show": false,
+    "lastUpdateTimestamp": 1747640665452,
+    "last_logged_in_user_id_only_for_download_check": 130852371,
+    "shouldShowUDCConfig": false,
+    "appsflyer_attribution_data": "{\"af_adset_id\":\"XTU3ZDMw\",\"is_incentivized\":\"false\",\"af_ad_type\":\"Banner\"}"
+  }
 }
