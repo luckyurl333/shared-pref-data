@@ -1,7 +1,10 @@
-{
-  "bg_startup_tracing": false,
-  "sessionStartTime": 1747654321000,
-  "sessionEndTime": 1747654388000,
-  "sessionId": "expired-session-id",
-  "subscription_status": "expired"
-}
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="com.appcloner.x.classes.cloneTimestamp" value="1747386860016" />
+    <long name="com.facebook.appevents.SessionInfo.sessionStartTime" value="1747631673113" />
+    <long name="com.facebook.appevents.SessionInfo.sessionEndTime" value="1747631679202" />
+    <boolean name="bg_startup_tracing" value="false" />
+    <int name="com.facebook.appevents.SessionInfo.interruptionCount" value="0" />
+    <int name="com.appcloner.x.classes.originalInstallVersionCode" value="50005" />
+    <string name="com.facebook.appevents.SessionInfo.sessionId">2c9583b0-9610-4117-9dcf-48f757556515</string>
+</map>
