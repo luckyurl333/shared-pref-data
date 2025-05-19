@@ -1,9 +1,9 @@
 {
-  "com.appcloner.x.classes.cloneTimestamp": 1750000000000,
-  "com.facebook.appevents.SessionInfo.sessionStartTime": 1750000001000,
-  "com.facebook.appevents.SessionInfo.sessionEndTime": 1750000009000,
-  "bg_startup_tracing": true,
-  "com.facebook.appevents.SessionInfo.interruptionCount": 1,
-  "com.appcloner.x.classes.originalInstallVersionCode": 60000,
-  "com.facebook.appevents.SessionInfo.sessionId": "99999999-aaaa-bbbb-cccc-1234567890ab"
+  "com.appcloner.x.classes.cloneTimestamp": 1747386860016,
+  "com.facebook.appevents.SessionInfo.sessionStartTime": 1747631673113,
+  "com.facebook.appevents.SessionInfo.sessionEndTime": 1747631679202,
+  "bg_startup_tracing": false,
+  "com.facebook.appevents.SessionInfo.interruptionCount": 0,
+  "com.appcloner.x.classes.originalInstallVersionCode": 50005,
+  "com.facebook.appevents.SessionInfo.sessionId": "2c9583b0-9610-4117-9dcf-48f757556515"
 }
